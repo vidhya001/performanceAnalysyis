@@ -10,5 +10,6 @@ There are some of links you can get started with profiling and bench marking
 2.https://www.tutorialspoint.com/concurrency_in_python/concurrency_in_python_benchmarking_and_profiling.htm
 3.https://www.tutorialspoint.com/concurrency_in_python/concurrency_in_python_benchmarking_and_profiling.htm
 4.https://gist.github.com/vinhnglx/16283871d5872da491927ac9bab8bc39
+5.https://blog.urth.org/2010/03/03/benchmarking-versus-profiling/
 
 The link to the link to the [docs](https://docs.google.com/document/d/1uLnhUbxAuH3EocrftTaIhDuqlAJzwQUR7GUcvAN7VvE/edit?usp=sharing) which gives you the detailed explaination of repo And also about profiling amd benchmarking with detailed working examples 
